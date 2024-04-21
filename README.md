@@ -10,10 +10,13 @@ For Encryption: -
 
 Enter Your Text : 
 Anuj
+
 enter encrypt to ENCRYPT, decrypt to DECRYPT, exit to EXIT the program 
 encrypt
+
 enter your shift number from 1 to 25: 
 1
+
 bovk
 
 
@@ -21,8 +24,10 @@ For Decryption: -
 
 Enter Your Text : 
 Anuj
+
 enter encrypt to ENCRYPT, decrypt to DECRYPT, exit to EXIT the program 
 decrypt
+
 enter your shift number from 1 to 25: 
 1
 zmti
